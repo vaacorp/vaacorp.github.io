@@ -3,10 +3,11 @@
 <h6> #techandsci
   we teach you 
  <img src="C:\Users\Kartheek\Desktop\veorga">
+  <br>
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+vaacorp is a diffrent type of platform for learning . it is lite ,faster and more efficient
 
 ```markdown
 Syntax highlighted code block
